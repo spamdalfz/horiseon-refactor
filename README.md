@@ -13,6 +13,7 @@
 * Fixed accessibility color/contrast issue in the .benefits class within CSS
 * Added meta tags to increase SEO
 * Consolidated and organized CSS selectors and properties to follow semantic structure
+* Properly commented CSS file
 
 --------------------------
 
